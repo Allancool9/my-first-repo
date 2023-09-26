@@ -1,2 +1,5 @@
 # my-first-repo
-Allan Ramirez
+My name is Allan Ramirez
+I like Playing Guitar
+I'm glad I'm here
+
